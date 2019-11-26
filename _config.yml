@@ -31,7 +31,7 @@ seo:
 # Event information.
 event:
   name:        "KUHacks"
-  description: "Welcome! This site is still under development, but feel to email us by clicking on "Contact Us" below"
+  description: "Welcome! This site is still under development, but feel to email us by clicking on 'Contact Us' below"
   date:        "15 - 17 of May, 2020"
   location:    "Flint, MI, United States"
 
